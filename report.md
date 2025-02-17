@@ -1,0 +1,1 @@
+So for this assignment what i did is that I utilize the resources that was sent on the wits moodle also from the use of stack overflow as well as youtube.By doing so i did one branch named feature/student-details and i added some necessary files to the repo.
